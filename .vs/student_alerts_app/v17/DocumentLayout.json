@@ -1,213 +1,213 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\student_alerts_app zip 1\\student_alerts_app\\",
+  "WorkspaceRootPath": "C:\\student_alerts_app zip 1\\student_alerts_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\enquiry_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\fee_detail_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\bare.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\degree_admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:manage.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_type_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_type_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\add_subject.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\semester_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\semester_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\student_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\student_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\add_period.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\attendance_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\add_attendance.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\period_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\loginpartial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\message_history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\subject_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\employee_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\shortlist_display.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\shortlisted_students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\compose_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\enquiry_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\fee_detail_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\bare.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\degree_admission_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:manage.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_type_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\course_type_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\add_subject.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\semester_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\semester_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\student_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\student_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\add_period.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\attendance_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\add_attendance.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:student_alerts_app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\templates\\attendence\\period_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\loginpartial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\message_history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\subject_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\employee_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:attendence\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\shortlist_display.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\templates\\admission\\shortlisted_students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:admission\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\templates\\master\\compose_message.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|E:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|C:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{131FEA6E-FF26-4CDB-940E-8CCBA9B4F30F}|student_alerts_app.pyproj|solutionrelative:master\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -218,21 +218,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "wsgi.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py",
-              "RelativeDocumentMoniker": "student_alerts_app\\wsgi.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py",
-              "RelativeToolTip": "student_alerts_app\\wsgi.py",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-28T04:07:04.888Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -243,35 +230,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "models.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py",
-              "RelativeDocumentMoniker": "admission\\models.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py",
-              "RelativeToolTip": "admission\\models.py",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "wsgi.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py",
+              "RelativeDocumentMoniker": "student_alerts_app\\wsgi.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\wsgi.py",
+              "RelativeToolTip": "student_alerts_app\\wsgi.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-15T06:34:33.638Z"
+              "WhenOpened": "2025-05-28T04:07:04.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "forms.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py",
-              "RelativeDocumentMoniker": "admission\\forms.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py",
-              "RelativeToolTip": "admission\\forms.py",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-15T06:35:28.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "views.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py",
               "RelativeDocumentMoniker": "admission\\views.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\views.py",
               "RelativeToolTip": "admission\\views.py",
               "ViewState": "AgIAAIsBAAAAAAAAAAArwKEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -279,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "enquiry_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\enquiry_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\enquiry_form.html",
               "RelativeToolTip": "admission\\templates\\admission\\enquiry_form.html",
               "ViewState": "AgIAALsAAAAAAAAAAAAkwO4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -291,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "admission_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\admission_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\admission_form.html",
               "RelativeToolTip": "admission\\templates\\admission\\admission_form.html",
               "ViewState": "AgIAAJABAAAAAAAAAAAAAKgBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -303,24 +279,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "settings.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py",
               "RelativeDocumentMoniker": "student_alerts_app\\settings.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\settings.py",
               "RelativeToolTip": "student_alerts_app\\settings.py",
               "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-06T03:53:09.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T03:53:09.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "views.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py",
               "RelativeDocumentMoniker": "master\\views.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\views.py",
               "RelativeToolTip": "master\\views.py",
               "ViewState": "AgIAABEAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -328,11 +303,48 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "__init__.py (student_alerts_app)",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py",
+              "RelativeDocumentMoniker": "student_alerts_app\\__init__.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py",
+              "RelativeToolTip": "student_alerts_app\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-09T11:07:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py",
+              "RelativeDocumentMoniker": "admission\\forms.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\forms.py",
+              "RelativeToolTip": "admission\\forms.py",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-15T06:35:28.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py",
+              "RelativeDocumentMoniker": "admission\\models.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\models.py",
+              "RelativeToolTip": "admission\\models.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-15T06:34:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "fee_detail_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\fee_detail_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\fee_detail_form.html",
               "RelativeToolTip": "admission\\templates\\admission\\fee_detail_form.html",
               "ViewState": "AgIAAJMAAAAAAAAAAAAkwLQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -340,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "models.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py",
               "RelativeDocumentMoniker": "master\\models.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\models.py",
               "RelativeToolTip": "master\\models.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -352,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "bare.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\bare.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\bare.html",
               "RelativeToolTip": "master\\templates\\master\\bare.html",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -364,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "login.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\login.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\login.html",
               "RelativeToolTip": "master\\templates\\master\\login.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -376,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "degree_admission_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\degree_admission_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\degree_admission_form.html",
               "RelativeToolTip": "admission\\templates\\admission\\degree_admission_form.html",
               "ViewState": "AgIAADQAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -388,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "forms.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py",
               "RelativeDocumentMoniker": "master\\forms.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\forms.py",
               "RelativeToolTip": "master\\forms.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -400,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "manage.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\manage.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\manage.py",
               "RelativeDocumentMoniker": "manage.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\manage.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\manage.py",
               "RelativeToolTip": "manage.py",
               "ViewState": "AgIAAAcAAAAAAAAAAAArwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -412,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "course_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\course_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_form.html",
               "RelativeToolTip": "master\\templates\\master\\course_form.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -424,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "course_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\course_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_list.html",
               "RelativeToolTip": "master\\templates\\master\\course_list.html",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -436,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "urls.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py",
               "RelativeDocumentMoniker": "master\\urls.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\urls.py",
               "RelativeToolTip": "master\\urls.py",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -448,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "urls.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py",
               "RelativeDocumentMoniker": "admission\\urls.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\urls.py",
               "RelativeToolTip": "admission\\urls.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -460,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "course_type_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\course_type_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_list.html",
               "RelativeToolTip": "master\\templates\\master\\course_type_list.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -472,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "course_type_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\course_type_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\course_type_form.html",
               "RelativeToolTip": "master\\templates\\master\\course_type_form.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -484,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "add_subject.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\add_subject.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\add_subject.html",
               "RelativeToolTip": "master\\templates\\master\\add_subject.html",
               "ViewState": "AgIAAGwAAAAAAAAAAAAowI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -496,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "layout.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\layout.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\layout.html",
               "RelativeToolTip": "master\\templates\\master\\layout.html",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -508,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "semester_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\semester_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_form.html",
               "RelativeToolTip": "master\\templates\\master\\semester_form.html",
               "ViewState": "AgIAADAAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -520,11 +532,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "semester_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\semester_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\semester_list.html",
               "RelativeToolTip": "master\\templates\\master\\semester_list.html",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -532,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "student_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\student_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_form.html",
               "RelativeToolTip": "master\\templates\\master\\student_form.html",
               "ViewState": "AgIAABoBAAAAAAAAAAAkwDsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -544,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "student_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\student_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\student_list.html",
               "RelativeToolTip": "master\\templates\\master\\student_list.html",
               "ViewState": "AgIAAGoAAAAAAAAAAAAkwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -556,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "forms.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py",
               "RelativeDocumentMoniker": "attendence\\forms.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\forms.py",
               "RelativeToolTip": "attendence\\forms.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -568,11 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "models.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py",
               "RelativeDocumentMoniker": "attendence\\models.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\models.py",
               "RelativeToolTip": "attendence\\models.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -580,11 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "views.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py",
               "RelativeDocumentMoniker": "attendence\\views.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\views.py",
               "RelativeToolTip": "attendence\\views.py",
               "ViewState": "AgIAAAUAAABQNDMzMzMYwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -592,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "add_period.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html",
               "RelativeDocumentMoniker": "attendence\\templates\\attendence\\add_period.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_period.html",
               "RelativeToolTip": "attendence\\templates\\attendence\\add_period.html",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -604,11 +616,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "urls.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py",
               "RelativeDocumentMoniker": "student_alerts_app\\urls.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\urls.py",
               "RelativeToolTip": "student_alerts_app\\urls.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -616,11 +628,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "attendance_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html",
               "RelativeDocumentMoniker": "attendence\\templates\\attendence\\attendance_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\attendance_list.html",
               "RelativeToolTip": "attendence\\templates\\attendence\\attendance_list.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAtwC8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -628,11 +640,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "add_attendance.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html",
               "RelativeDocumentMoniker": "attendence\\templates\\attendence\\add_attendance.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\add_attendance.html",
               "RelativeToolTip": "attendence\\templates\\attendence\\add_attendance.html",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -640,11 +652,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "period_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html",
               "RelativeDocumentMoniker": "attendence\\templates\\attendence\\period_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\templates\\attendence\\period_list.html",
               "RelativeToolTip": "attendence\\templates\\attendence\\period_list.html",
               "ViewState": "AgIAAEUAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -652,11 +664,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "loginpartial.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\loginpartial.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\loginpartial.html",
               "RelativeToolTip": "master\\templates\\master\\loginpartial.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -664,11 +676,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "dashboard.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\dashboard.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\dashboard.html",
               "RelativeToolTip": "master\\templates\\master\\dashboard.html",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -676,11 +688,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "message_history.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\message_history.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\message_history.html",
               "RelativeToolTip": "master\\templates\\master\\message_history.html",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAAKsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -688,11 +700,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "subject_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\subject_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\subject_list.html",
               "RelativeToolTip": "master\\templates\\master\\subject_list.html",
               "ViewState": "AgIAAC8AAAAAAAAAAAAowFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -700,11 +712,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "employee_form.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\employee_form.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_form.html",
               "RelativeToolTip": "master\\templates\\master\\employee_form.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -712,11 +724,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "employee_list.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\employee_list.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\employee_list.html",
               "RelativeToolTip": "master\\templates\\master\\employee_list.html",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -724,11 +736,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "urls.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py",
               "RelativeDocumentMoniker": "attendence\\urls.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\urls.py",
               "RelativeToolTip": "attendence\\urls.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -736,11 +748,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "__init__.py (attendence)",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py",
               "RelativeDocumentMoniker": "attendence\\__init__.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\attendence\\__init__.py",
               "RelativeToolTip": "attendence\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -748,11 +760,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "shortlisted_students.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\shortlisted_students.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlisted_students.html",
               "RelativeToolTip": "admission\\templates\\admission\\shortlisted_students.html",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -760,11 +772,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "shortlist_display.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html",
               "RelativeDocumentMoniker": "admission\\templates\\admission\\shortlist_display.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\templates\\admission\\shortlist_display.html",
               "RelativeToolTip": "admission\\templates\\admission\\shortlist_display.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -772,11 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "__init__.py (admission)",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py",
               "RelativeDocumentMoniker": "admission\\__init__.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\admission\\__init__.py",
               "RelativeToolTip": "admission\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -784,11 +796,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "compose_message.html",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html",
               "RelativeDocumentMoniker": "master\\templates\\master\\compose_message.html",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\templates\\master\\compose_message.html",
               "RelativeToolTip": "master\\templates\\master\\compose_message.html",
               "ViewState": "AgIAAKEAAAAANDMzMzPrv6gAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -796,23 +808,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "__init__.py (student_alerts_app)",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py",
-              "RelativeDocumentMoniker": "student_alerts_app\\__init__.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\student_alerts_app\\__init__.py",
-              "RelativeToolTip": "student_alerts_app\\__init__.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-09T11:07:12.599Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 48,
               "Title": "tests.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py",
               "RelativeDocumentMoniker": "master\\tests.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\tests.py",
               "RelativeToolTip": "master\\tests.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -822,9 +822,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "__init__.py (master)",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py",
               "RelativeDocumentMoniker": "master\\__init__.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\master\\__init__.py",
               "RelativeToolTip": "master\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -834,9 +834,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "0001_initial.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
               "RelativeDocumentMoniker": "env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
               "RelativeToolTip": "env\\Lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py",
               "ViewState": "AgIAALQAAAAAAAAAAAAowMMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -846,9 +846,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "0001_initial.py",
-              "DocumentMoniker": "E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
+              "DocumentMoniker": "C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
               "RelativeDocumentMoniker": "env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
-              "ToolTip": "E:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
+              "ToolTip": "C:\\student_alerts_app zip 1\\student_alerts_app\\env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
               "RelativeToolTip": "env\\Lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
