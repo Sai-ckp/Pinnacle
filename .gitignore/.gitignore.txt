@@ -15,8 +15,9 @@ db.sqlite3
 # Env
 .env
 
-# VS Code
-.vscode/
+.vs/
+*.vsidx
+
 
 # OS
 .DS_Store
