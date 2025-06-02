@@ -26,11 +26,7 @@ SECRET_KEY = '6e470ba8-802a-428f-b168-40d4eadee009'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'pinnacle-college-a6azffexf4asajgg.southeastasia-01.azurewebsites.net',  # Azure production host
-    '127.0.0.1',  # Local development
-    'localhost'
-]
+ALLOWED_HOSTS = ['pinnacle-college-a6azffexf4asajgg.southeastasia-01.azurewebsites.net', '169.254.129.3']
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
